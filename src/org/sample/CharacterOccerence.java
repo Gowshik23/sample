@@ -18,6 +18,5 @@ public static void main(String[] args) {
 			charcount.put(c, 1);
 		}
 	}
-	System.out.println(charcount);
 }
 }
